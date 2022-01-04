@@ -1,0 +1,4 @@
+cert
+infra/.terraform
+infra/tfplan
+infra/.terraform.lock.hcl
