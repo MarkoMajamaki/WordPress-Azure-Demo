@@ -1,5 +1,5 @@
 set -a;
-source infra/tfstate.tfvars
+source tfstate.tfvars
 set +a
 
 # Create the resource group
